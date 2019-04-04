@@ -1,0 +1,2 @@
+# intermediateJS
+Intermediate algorithm 
